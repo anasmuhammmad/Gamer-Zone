@@ -25,7 +25,8 @@
     "react-dom": "^18.2.0",
     "react-icons": "^4.7.1",
     "react-infinite-scroll-component": "6.1",
-    "vite-plugin-mock": "^3.0.1"
+    "vite-plugin-mock": "^3.0.1",
+    "zustand": "^4.3.7"
   },
   "devDependencies": {
     "@types/node": "^20.10.7",
