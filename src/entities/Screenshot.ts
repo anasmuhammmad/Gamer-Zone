@@ -1,6 +1,6 @@
-export interface ScreenShot{
-    id: number; 
-    image: string;
-    width: number;
-    height: number;
+export interface ScreenShot {
+  id: number;
+  image: string;
+  width: number;
+  height: number;
 }
